@@ -17,19 +17,16 @@ Right now I work for Emerson Electric in their Process Systems Solutions departm
 
 My Education
 ======
-Let me start off by saying what I am most proud about my education; I worked full time during all my of education. I have my B.S. in Computer Science from Western Governors University where I was exposed to your regular fare of CS subjects like Operating Systems and Architecture, Data Structures and Algorithms, Mathematics, and so on. 
+Let me start off by saying what I am most proud about my education; I worked full time during all my of education. I have my B.S. in Computer Science from Western Governors University where I was exposed to your regular fare of CS subjects.
 
-I'm currently obtaining my M.S. in Computer Science with a heavy, heavy focus in Machine Learning and Artificial Intelligence 
-Hello there, 
+I'm currently obtaining my M.S. in Computer Science with a heavy, heavy focus in Machine Learning and Artificial Intelligence. Georgia Tech's curriculum is known for its rigor and I can attest that it made me feel very confident in my understanding of this subject. I still have a lot to learn, but I feel very equipped to navigate the foggy unknown. 
 
-I am a Software Engineer who comes with a diverse background of skills and experience. While pursuing my undergraduate degree, I worked full time and this allowed me to grow my knowledge of computer science while also obtaining valuable professional skills. I have senior management experience leading six supervisors spanning 150 employees in a startup organization. I also have experience with human resources where I provided reporting and analytics support to finance, legal, and the C-suite for a Fortune 500 company. After I obtained my B.S. in Computer Science, I transitioned to a Software Engineer role in another Fortune 500 company. Here's a link to my work experience for more details.
+Check out my education section of my CV for more information on the subjects I've taken. 
 
-I am pursuing my Masters in Computer Science with a Machine Learning Specialization from Georgia Institute of Technology. I've completed the following courses: Machine Learning, Artificial Intelligence, Deep Learning, Network Science, Machine Learning for Trading. I plan on taking: Reinforcement Learning, Artificial Intelligence Ethics, Graduate Algorithms, Big Data for Health, and Artificial Intelligence Techniques for Robotics. Check out my projects section for more information on what all I've worked on! 
 
-My strongest skills and knowledge areas are: communication, leadership, software development, and machine learning. (Making coffee, but that comes with an extra cost.)
-
-When it comes to programming languages, I consider Python to be my best language and I'm not going to sell myself short, I'm pretty knowledgeable and experienced in it. C# is my next best language, but I use this purely for my current role. I dabble in C++ and only use it when absolutely necessary. What can I say, the more abstract the language, the better. 
-
+My Skills
+======
+As a Software Engineer, you get exposed to a myriad of technology tools. I'm sure you get it. So, I'll just tell you what I consider are my best skills and what I've honed in all my experience. I have leadership, management, and communication that came from my management roles. Software design, debugging, problem solving (one could say that problem solving is just a less cool way of saying debugging), and cost-benefit analysis that come from my Software Engineer role and education.
 
 
 
