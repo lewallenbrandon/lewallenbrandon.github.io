@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Western Governors University, 2020
+* M.S. in Computer Science Specialization in AI/ML, Georgia Tech, 2024 (expected)
 
 Work experience
 ======
