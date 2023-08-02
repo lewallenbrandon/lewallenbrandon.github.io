@@ -17,7 +17,7 @@ Right now I work for Emerson Electric in their Process Systems Solutions departm
 
 My Education
 ======
-Let me start off by saying what I am most proud about my education; I worked full time during all my of education. I have my B.S. in Computer Science from Western Governors University where I was exposed to your regular fare of CS subjects.
+Let me start off by saying what I am most proud about my education; I worked full time during all my of education. I have my B.S. in Computer Science from Western Governors University where I was exposed to your regular fare of C.S. subjects.
 
 I'm currently obtaining my M.S. in Computer Science with a heavy, heavy focus in Machine Learning and Artificial Intelligence. Georgia Tech's curriculum is known for its rigor and I can attest that it made me feel very confident in my understanding of this subject. I still have a lot to learn, but I feel very equipped to navigate the foggy unknown. 
 
