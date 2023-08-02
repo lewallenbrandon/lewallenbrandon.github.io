@@ -1,11 +1,17 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Who I am"
+excerpt: "Who I am"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-lorem ipsum.
+Hello there, 
+
+I am a Software Engineer who brings a unique mix of skills and experiences to draw from. I am pursuing my Masters in Computer Science with a Machine Learning Specialization from Georgia Institute of Technology. 
+
+My strongest skills are: communication, 
+
+
