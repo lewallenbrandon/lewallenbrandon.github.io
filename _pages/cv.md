@@ -12,17 +12,20 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Western Governors University, 2020
+  * Relevant Coursework: Operating Systems, Data Structures and Algorithms I/II, Discrete Mathematics
+    I/II, Software Engineering, Project Management, Software Quality Assurance, Calculus, Software
+    Architecture
 * M.S. in Computer Science Specialization in AI/ML, Georgia Tech, 2024 (expected)
-  * Completed Coursework: Artificial Intelligence, Machine Learning, Deep Learning, Machine Learning for Trading, Network Science
+  * Relevant Coursework: Artificial Intelligence, Machine Learning, Deep Learning, Machine Learning for Trading, Network Science
   * Upcoming Coursework: Reinforcement Learning, Artificial Intelligence Ethics, Graduate Algorithms, Artificial Intelligence for Robotics, Natural Language Processing
 
 
 Work experience
 ======
 * Software Engineer at Emerson Electric, April 2022 - Present
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Improved display generation performance by 50% by using parallel processing, caching, and asychronous programming. 
+  * Reworked plant history application to align with customer requirements for domain, administrator, and security requirements. 
+  * Implemented numerous bug fixes and unit testing for C# MVVM applications using MOQ and WPF.
 
 * HR Reporting and Analytics at Becton Dickinson, October 2017 - April 2022
   * Responsible for HR Reporting and Analytics for Compensation Cycle, Pandemic Response, Diversity and Inclusion, and several other projects.
