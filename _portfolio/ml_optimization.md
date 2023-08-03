@@ -1,7 +1,6 @@
 ---
 title: "Machine Learning - Randomized Optimization"
-excerpt: "Random Forest classification algorithm implemented with Python, Pandas, and NumPy to predict, buy, sell, and hold
-opportunities for stock market data. (From scratch; no Scikit-Learn)"
+excerpt: "This project evaluates five optimization algorithms: Gradient Descent, Simulated Annealing, Genetic Algorithms, Random Hill Climbing, and MIMIC. The goal is to explore their performance across three problems (8-Queens, Flip Flop, Max k-Color) and their impact on a neural network predicting breast cancer presence."
 collection: portfolio
 ---
 
