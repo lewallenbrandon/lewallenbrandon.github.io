@@ -23,7 +23,7 @@ Education
 Work experience
 ======
 * Software Engineer at Emerson Electric, April 2022 - Present
-  * Improved display generation performance by 50% by using parallel processing, caching, and asychronous programming. 
+  * Improved display generation performance by 50% by using parallel processing, caching, and asynchronous programming. 
   * Reworked plant history application to align with customer requirements for domain, administrator, and security requirements. 
   * Implemented numerous bug fixes and unit testing for C# MVVM applications using MOQ and WPF.
 
@@ -32,7 +32,7 @@ Work experience
   * Took it upon myself to leverage Computer Science studies to automate Reduction in Force file and notification creation for HR, Legal, and Data Management. Time savings of one FTE.
   * Transitioned C-Suite Terminations report to Power BI and automated/scripted communication of late terminations to leaders and supporting HR partners. Time savings of 20 hours per month.
   * Programmed creation of Success Sharing file for local sites with flexibility to accommodate various site wage type requirements. Time savings of 4 hours per request. Average of 40 requests per month. 
-  * Went above and beyond by leveraging programming skills where possible to automate and improve processes. This doubled as an exercise in practicing Software Engineering skills. The company benefited by being able to solve tasks previously deemed impossible or too time consuming.
+  * Went above and beyond by leveraging programming skills where possible to automate and improve processes. This doubled as an exercise in practicing Software Engineering skills. The company benefited by being able to solve tasks previously deemed impossible or too time-consuming.
 
 * Senior Operations Manager at Qualfon, January 2013 - July 2017
   * Lead a team of 6 supervisors spanning 150 employees for the largest client. Consistently exceeded performance goals and set forth numerous process improvements and initiatives.
