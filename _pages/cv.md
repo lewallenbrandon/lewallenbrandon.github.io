@@ -13,10 +13,13 @@ Education
 ======
 * B.S. in Computer Science, Western Governors University, 2020
 * M.S. in Computer Science Specialization in AI/ML, Georgia Tech, 2024 (expected)
+  * Completed Coursework: Artificial Intelligence, Machine Learning, Deep Learning, Machine Learning for Trading, Network Science
+  * Upcoming Coursework: Reinforcement Learning, Artificial Intelligence Ethics, Graduate Algorithms, Artificial Intelligence for Robotics, Natural Language Processing
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Emerson Electric, 2022 - Present
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -34,25 +37,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
